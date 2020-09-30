@@ -4,8 +4,12 @@ This is the file you will contribute to! Below you will see a list of user names
 
 _When adding your username and duty station to the list, we ask that you add it somewhere in the middle, not the start or the end. Thank you!_
 
+#### NOTE: This repo will not count toward an official Hacktoberfest PR. Checkout the [Hacktoberfest Rules here](https://hacktoberfest.digitalocean.com/details)! ####
+
 #
 
 -   codercarly - Fort Bragg
 -   toanhtran - San Diego Naval Base
+-   ashleydaffin - Camp Pendleton 
+-   anagosseen - Davis-Monthan
 -   ttran - Sasebo, Japan
